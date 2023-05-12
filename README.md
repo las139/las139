@@ -1,16 +1,13 @@
-### Hi there 👋
+## *BackEnd Developer*, Lee Seong Min
 
-<!--
-**las139/las139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* **우아한테크캠프 PRO 4기** <I>2022.05.09 ~ 2022.07.08</I>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱  <I>[PORTFOLIO](https://lisc.notion.site/4-16ab625eba2944b48c55ae14b9f33c12)</I>      
+✏️ <I>[BLOG](https://lisc.tistory.com/)</I>    
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flas139&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=las139)](https://github.com/las139/github-readme-stats)
