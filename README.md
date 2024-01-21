@@ -1,5 +1,5 @@
 <div align= "center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Back-end%20Developer%20/%20이성민&animation=fadeIn&fontColor=000000&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5da3c0,100:44c564&height=180&text=Back-end%20Developer%20/%20%EC%9D%B4%EC%84%B1%EB%AF%BC&animation=fadeIn&fontColor=000000&fontSize=40" />
 </div>
 
 <div style="text-align: left;"> 
